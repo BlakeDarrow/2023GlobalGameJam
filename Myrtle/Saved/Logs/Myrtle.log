@@ -1052,3 +1052,168 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.04-02.42.47:958][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2023.02.04-02.42.47:961][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.02.04-02.44.40:129][713]LogDerivedDataCache: C:/Users/blake/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.130 and deleted 0 files with total size 0 MiB. Scanned 782 files in 778 folders with total size 9 MiB.
+[2023.02.04-03.02.38:152][787]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-03.02.38:156][787]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-03.02.38:161][788]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-03.02.43:330][400]LogContentBrowser: Attempting asset rename: NewFolder -> FBX
+[2023.02.04-03.02.43:330][400]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-03.02.45:504][621]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-03.02.45:525][621]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-03.02.45:529][622]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-03.02.48:795][ 11]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2023.02.04-03.02.48:796][ 11]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-03.02.51:072][230]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.02.04-03.02.51:076][230]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.02.04-03.02.51:084][231]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.02.04-03.02.52:062][344]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.02.04-03.02.52:067][344]LogContentBrowser: End creating deferred item NewMaterial
+[2023.02.04-03.02.52:784][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.02.04-03.02.53:631][407]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-03.02.53:644][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.02.04-03.02.53:650][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.02.53:656][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: ================================================
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Total job queries 101, among them cache hits 2 (1.98%)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Tracking 99 distinct input hashes that result in 81 distinct outputs (81.82%)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: RAM used: 0.85 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Shaders Compiled: 8
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Jobs assigned 8, completed 8 (100.00%)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Job execution time: average 1.20 s, max 1.28 s
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Job life time (pending + execution): average 1.21 s, max 1.29
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.29 s
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Jobs were issued in 8 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Average processing rate: 6.21 jobs/sec
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Total thread time: 3.70 s
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Total thread preprocess time: 0.23 s
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Percentage time preprocessing: 6.29%
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Effective parallelization: 2.87 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.56 sec, max 0.56 sec, min 0.55 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.50 sec, max 0.51 sec, min 0.49 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.48 sec, max 0.48 sec, min 0.47 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 30.02% of total time (compiled    2 times, average 0.56 sec, max 0.56 sec, min 0.55 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 27.08% of total time (compiled    2 times, average 0.50 sec, max 0.51 sec, min 0.49 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                                 FLumenCardVS - 25.73% of total time (compiled    2 times, average 0.48 sec, max 0.48 sec, min 0.47 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 17.17% of total time (compiled    2 times, average 0.32 sec, max 0.32 sec, min 0.31 sec)
+[2023.02.04-03.02.53:659][407]LogShaderCompilers: Display: ================================================
+[2023.02.04-03.02.57:047][773]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-03.02.57:124][773]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-03.02.57:129][774]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-03.02.59:477][ 51]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2023.02.04-03.02.59:477][ 51]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-03.03.02:239][354]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-03.03.02:257][354]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-03.03.02:263][355]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-03.03.06:063][808]LogContentBrowser: Attempting asset rename: NewFolder -> Audio
+[2023.02.04-03.03.06:063][808]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-03.04.24:935][964]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.02.04-03.04.24:938][964]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.02.04-03.04.24:978][966]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.02.04-03.04.25:343][  5]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2023.02.04-03.04.25:344][  5]LogContentBrowser: End creating deferred item NewMaterial
+[2023.02.04-03.04.27:256][182]LogContentBrowser: Deferred new asset file creation: NewMaterial1
+[2023.02.04-03.04.27:261][182]LogContentBrowser: Creating deferred item: NewMaterial1
+[2023.02.04-03.04.27:266][183]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial1).
+[2023.02.04-03.04.29:326][427]LogContentBrowser: Attempting asset rename: NewMaterial1 -> NewMaterial1
+[2023.02.04-03.04.29:330][427]LogContentBrowser: End creating deferred item NewMaterial1
+[2023.02.04-03.04.33:691][898]LogContentBrowser: Attempting asset rename: NewMaterial1 -> placeholder
+[2023.02.04-03.04.33:718][898]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-03.04.34:976][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5_Levels/placeholder" FILE="D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder.uasset" SILENT=true
+[2023.02.04-03.04.34:983][898]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.004897 seconds
+[2023.02.04-03.04.34:984][898]LogSerialization: UsePackageTrailer: 'true'
+[2023.02.04-03.04.34:987][898]LogSavePackage: Moving output files for package: /Game/5_Levels/placeholder
+[2023.02.04-03.04.34:987][898]LogSavePackage: Moving 'D:/2023GlobalGameJam/Myrtle/Saved/placeholder579099E84A31A9EA53A544A567F4D358.tmp' to 'D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder.uasset'
+[2023.02.04-03.04.34:992][898]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.27 sec
+[2023.02.04-03.04.35:005][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.04.35:011][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.04-03.04.35:016][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.02.04-03.04.35:019][898]AssetCheck: New page: Asset Save: placeholder
+[2023.02.04-03.04.35:019][898]LogContentValidation: Display: Validating /Script/Engine.Material /Game/5_Levels/placeholder.placeholder
+[2023.02.04-03.04.36:294][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.04-03.04.37:335][ 20]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-03.04.37:344][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.04.37:351][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.04.37:356][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.04-03.04.38:948][177]LogContentBrowser: Deferred new asset file creation: placeholder1
+[2023.02.04-03.04.38:996][177]LogContentBrowser: Creating deferred item: placeholder1
+[2023.02.04-03.04.39:002][178]LogContentBrowser: Renaming the item being created (Deferred Item: placeholder1).
+[2023.02.04-03.04.39:393][224]LogContentBrowser: Attempting asset rename: placeholder1 -> placeholder1
+[2023.02.04-03.04.39:394][224]LogContentBrowser: End creating deferred item placeholder1
+[2023.02.04-03.04.45:638][915]LogSlate: Window 'Failed Renames' being destroyed
+[2023.02.04-03.04.47:175][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-03.04.48:281][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5_Levels/placeholder1" FILE="D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder1.uasset" SILENT=true
+[2023.02.04-03.04.48:283][ 76]LogSavePackage: Moving output files for package: /Game/5_Levels/placeholder1
+[2023.02.04-03.04.48:283][ 76]LogSavePackage: Moving 'D:/2023GlobalGameJam/Myrtle/Saved/placeholder1D8B137F84F49139E5C40D1ACDC8FA655.tmp' to 'D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder1.uasset'
+[2023.02.04-03.04.48:287][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.11 sec (total: 2.38 sec)
+[2023.02.04-03.04.48:290][ 76]AssetCheck: New page: Asset Save: placeholder1
+[2023.02.04-03.04.48:290][ 76]LogContentValidation: Display: Validating /Script/Engine.Material /Game/5_Levels/placeholder1.placeholder1
+[2023.02.04-03.04.51:797][449]LogSlate: Window 'Failed Renames' being destroyed
+[2023.02.04-03.05.08:348][250]LogSlate: Window 'Failed Renames' being destroyed
+[2023.02.04-03.05.15:044][987]LogContentBrowser: Attempting asset rename: placeholder1 -> placeholder_1
+[2023.02.04-03.05.15:062][987]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-03.05.15:119][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5_Levels/placeholder_1" FILE="D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder_1.uasset" SILENT=true
+[2023.02.04-03.05.15:120][987]LogSavePackage: Moving output files for package: /Game/5_Levels/placeholder_1
+[2023.02.04-03.05.15:120][987]LogSavePackage: Moving 'D:/2023GlobalGameJam/Myrtle/Saved/placeholder_1E285400841E3C0A96E166F9A0833A582.tmp' to 'D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder_1.uasset'
+[2023.02.04-03.05.15:124][987]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.44 sec)
+[2023.02.04-03.05.15:134][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.05.15:140][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.05.15:145][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.02.04-03.05.15:148][987]AssetCheck: New page: Asset Save: placeholder_1
+[2023.02.04-03.05.15:148][987]LogContentValidation: Display: Validating /Script/Engine.Material /Game/5_Levels/placeholder_1.placeholder_1
+[2023.02.04-03.05.17:780][271]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-03.05.17:836][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/4_Audio/placeholder_1" FILE="D:/2023GlobalGameJam/Myrtle/Content/4_Audio/placeholder_1.uasset" SILENT=true
+[2023.02.04-03.05.17:837][271]LogSavePackage: Moving output files for package: /Game/4_Audio/placeholder_1
+[2023.02.04-03.05.17:837][271]LogSavePackage: Moving 'D:/2023GlobalGameJam/Myrtle/Saved/placeholder_1BC0628FB417B96C52315108FB26FD766.tmp' to 'D:/2023GlobalGameJam/Myrtle/Content/4_Audio/placeholder_1.uasset'
+[2023.02.04-03.05.17:841][271]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.50 sec)
+[2023.02.04-03.05.17:850][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.05.17:856][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.04-03.05.17:861][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.04-03.05.17:870][271]AssetCheck: New page: Asset Save: placeholder_1
+[2023.02.04-03.05.17:871][271]LogContentValidation: Display: Validating /Script/Engine.Material /Game/4_Audio/placeholder_1.placeholder_1
+[2023.02.04-03.05.19:343][433]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.02.04-03.05.19:343][433]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.02.04-03.05.22:945][812]LogContentBrowser: Deferred new asset file creation: placeholder1
+[2023.02.04-03.05.22:999][812]LogContentBrowser: Creating deferred item: placeholder1
+[2023.02.04-03.05.23:005][813]LogContentBrowser: Renaming the item being created (Deferred Item: placeholder1).
+[2023.02.04-03.05.24:811][ 23]LogContentBrowser: Attempting asset rename: placeholder1 -> placeholder_3
+[2023.02.04-03.05.24:813][ 23]LogContentBrowser: End creating deferred item placeholder1
+[2023.02.04-03.05.29:241][500]LogSlate: Window 'Failed Renames' being destroyed
+[2023.02.04-03.05.30:786][645]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.04-03.05.32:106][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/5_Levels/placeholder_3" FILE="D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder_3.uasset" SILENT=true
+[2023.02.04-03.05.32:107][645]LogSavePackage: Moving output files for package: /Game/5_Levels/placeholder_3
+[2023.02.04-03.05.32:107][645]LogSavePackage: Moving 'D:/2023GlobalGameJam/Myrtle/Saved/placeholder_32BFBA6C448E2B894787E1492151F6327.tmp' to 'D:/2023GlobalGameJam/Myrtle/Content/5_Levels/placeholder_3.uasset'
+[2023.02.04-03.05.32:111][645]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.32 sec (total: 3.83 sec)
+[2023.02.04-03.05.32:115][645]AssetCheck: New page: Asset Save: placeholder_3
+[2023.02.04-03.05.32:115][645]LogContentValidation: Display: Validating /Script/Engine.Material /Game/5_Levels/placeholder_3.placeholder_3
+[2023.02.04-03.05.43:429][891]LogSlate: Window 'Failed Renames' being destroyed
+[2023.02.04-03.05.45:560][ 99]LogContentBrowser: Deferred new asset file creation: placeholder_4
+[2023.02.04-03.05.45:565][ 99]LogContentBrowser: Creating deferred item: placeholder_4
+[2023.02.04-03.05.45:571][100]LogContentBrowser: Renaming the item being created (Deferred Item: placeholder_4).
+[2023.02.04-03.05.46:962][260]LogContentBrowser: Attempting asset rename: placeholder_4 -> placeholder_4
+[2023.02.04-03.05.46:965][260]LogContentBrowser: End creating deferred item placeholder_4
+[2023.02.04-03.05.51:221][719]LogSlate: Window 'Failed Renames' being destroyed
+[2023.02.04-03.05.51:919][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.04-03.05.52:982][790]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-03.05.52:991][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.05.52:997][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.04-03.05.53:003][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.04-03.05.53:590][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.02.04-03.05.54:659][844]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-03.05.54:668][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.02.04-03.05.54:674][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.04-03.05.54:679][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.04-03.05.55:271][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.02.04-03.05.56:057][903]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-03.05.56:067][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.02.04-03.05.56:073][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.05.56:078][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.02.04-03.05.57:169][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.04-03.05.58:005][ 17]LogSlate: Window 'Delete Assets' being destroyed
+[2023.02.04-03.05.58:015][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.02.04-03.05.58:021][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2023.02.04-03.05.58:027][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
