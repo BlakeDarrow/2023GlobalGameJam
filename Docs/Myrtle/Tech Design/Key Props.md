@@ -1,6 +1,6 @@
--  [ ] Stairs
--  [ ] Pillars
--  [ ] Walls / floor
+-  [x] Stairs
+-  [x] Pillars
+-  [x] Walls / floor
 -  [ ] Roofs
 	- [ ] corner, ramp, flat
 - [ ] Door
