@@ -3,7 +3,7 @@
 -  [ ] Trees
 -  [ ] Root kit
 -  [ ] Mushrooms
--  [ ] Haybales
+-  [x] Haybales
 -  [x] Box Planters
 -  [ ] Vines
 -  [ ] Bushes
