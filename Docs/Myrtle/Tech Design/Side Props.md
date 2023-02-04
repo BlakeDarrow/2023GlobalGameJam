@@ -4,7 +4,7 @@
 -  [ ] Root kit
 -  [ ] Mushrooms
 -  [ ] Haybales
--  [ ] Box Planters
+-  [x] Box Planters
 -  [ ] Vines
 -  [ ] Bushes
 -  [ ] Stone path
