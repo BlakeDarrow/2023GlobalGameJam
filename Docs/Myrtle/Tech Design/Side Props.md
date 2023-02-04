@@ -1,0 +1,12 @@
+-  [ ] Fences
+-  [ ] Sidewalk
+-  [ ] Trees
+-  [ ] Root kit
+-  [ ] Mushrooms
+-  [ ] Haybales
+-  [ ] Box Planters
+-  [ ] Vines
+-  [ ] Bushes
+-  [ ] Stone path
+	-  [ ] pavers
+	-  [ ] brick

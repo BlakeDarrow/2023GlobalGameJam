@@ -27,14 +27,27 @@
 	-  [ ] Weapons
 	-  [ ] Player level
 
-
 ## MVP
-
-1 chunk with POI
-1 chunk with no POI
-Proc gen map
-	9 chunks
-1 enemy
-4 weapons
-winnable
+- [ ] 1 chunk with POI
+	- [ ] textured, props
+	- [ ] buildings
+	- [ ] random spawned AI and collectables
+- [ ] 1 chunk with no POI
+	- [ ] textured, props
+- [x] Proc gen map
+	- [x] 9 chunks
+- [ ] 1 enemy
+	- [ ] modeled
+	- [ ] rigged
+	- [ ] animated
+	- [ ] textured
+- [ ] 4 finished weapons
+	- [ ] modeled
+	- [ ] animated
+	- [ ] textured
+	- [ ] vfx
+- [ ] gameplay loop
+	- [ ] start menu
+	- [ ] end screen
+	- [ ] teleport to next level
 
