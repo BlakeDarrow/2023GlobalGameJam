@@ -47,7 +47,13 @@
 	- [ ] textured
 	- [ ] vfx
 - [ ] gameplay loop
-	- [ ] start menu
+	- [x] start menu
 	- [ ] end screen
 	- [ ] teleport to next level
 
+
+
+Marker distance
+Weapon functionality for 2 and 3
+End
+	water - objective
