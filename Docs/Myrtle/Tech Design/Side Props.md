@@ -1,4 +1,4 @@
--  [ ] Fences
+-  [x] Fences
 -  [ ] Sidewalk
 -  [ ] Trees
 -  [ ] Root kit
