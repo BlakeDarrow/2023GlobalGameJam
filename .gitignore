@@ -161,3 +161,7 @@ Myrtle/Binaries/
 Myrtle/DerivedDataCache/
 Myrtle/Intermediate/
 Myrtle/Saved/
+*.log
+Myrtle/Saved/AutoScreenshot.png
+Myrtle/Saved/Logs/Myrtle.log
+*.log
