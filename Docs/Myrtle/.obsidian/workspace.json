@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Tech Design/Key Gameplay Featues.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech Design/To Do.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech Design/To Do.md",
+                "file": "Tech Design/Key Gameplay Featues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech Design/To Do.md",
+                "file": "Tech Design/Key Gameplay Featues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech Design/To Do.md"
+                "file": "Tech Design/Key Gameplay Featues.md"
               }
             }
           }
@@ -159,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c5efd67c9c6075c",
+  "active": "33931563bc47d033",
   "lastOpenFiles": [
-    "Ideas.md"
+    "Ideas.md",
+    "Tech Design/Key Gameplay Featues.md"
   ]
 }
