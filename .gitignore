@@ -74,3 +74,61 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Docs/Myrtle/.obsidian/*
 Docs/Myrtle/.obsidian/workspace.json
+Myrtle/Saved/AutoScreenshot.png
+Myrtle/Saved/AutoScreenshot.png
+Myrtle/Saved/Logs/Myrtle.log
+Myrtle/Saved/Logs/Myrtle-backup-2023.02.04-03.32.38.log
+Myrtle/Saved/Logs/Myrtle.log
+*.log
+Myrtle/Saved/Config/CrashReportClient/UECC-Windows-992857EA47AE8C7F4D4FDA8D0EB367A7/CrashReportClient.ini
+# Ignore all files by default, but scan all directories.
+*
+!*/
+
+# Do not ignore git files in the root of the repo.
+!/.git*
+
+# Do not ignore current project's `.uproject`.
+!/*.uproject
+
+# Do not ignore source, config and plugins dirs.
+!/Source/**
+!/Config/**
+!/Plugins/**
+
+# Only allow .uasset and .umap files from /Content dir.
+# They're tracked by git-lfs, don't forget to track other
+# files if adding them here.
+!/Content/**/*.uasset
+!/Content/**/*.umap
+
+# Allow any files from /RawContent dir.
+# Any file in /RawContent dir will be managed by git lfs.
+!/RawContent/**/*
+
+# OS/platform generated files.
+
+# Windows
+ehthumbs.db
+Thumbs.db
+
+# Mac OS X
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Visual Studio
+.vs
