@@ -132,3 +132,32 @@ Session.vim
 
 # Visual Studio
 .vs
+
+*/Intermediate/CachedAssetRegistry.bin
+*/Intermediate/**/*
+*/DerivedDataCache/**/*
+*/Saved/**/*
+
+Engine/Binaries/
+Engine/DerivedDataCache/
+Engine/Intermediate/
+Engine/Plugins/*/*/Binaries/
+Engine/Plugins/*/*/Intermediate/
+Engine/Programs/UnrealHeaderTool/
+Engine/Programs/UnrealPak/
+Engine/Saved/
+Engine/Shaders/Binaries/
+Engine/Source/*/*/*/obj/
+Engine/Source/*/*/obj/
+Engine/Source/*/obj/
+
+UE4.opensdf
+UE4.sdf
+UE4.sln
+UE4.suo
+UE4.*.suo
+
+Myrtle/Binaries/
+Myrtle/DerivedDataCache/
+Myrtle/Intermediate/
+Myrtle/Saved/
