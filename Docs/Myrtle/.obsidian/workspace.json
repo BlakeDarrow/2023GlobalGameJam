@@ -11,12 +11,8 @@
             "id": "33931563bc47d033",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ideas.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -97,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ideas.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,7 +152,7 @@
   },
   "active": "33931563bc47d033",
   "lastOpenFiles": [
-    "Tech Design/To Do.md",
+    "Tech Design/Key Gameplay Featues.md",
     "Ideas.md"
   ]
 }
