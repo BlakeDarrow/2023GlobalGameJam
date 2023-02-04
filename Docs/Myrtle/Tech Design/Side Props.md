@@ -6,7 +6,7 @@
 -  [x] Haybales
 -  [x] Box Planters
 -  [ ] Vines
--  [ ] Bushes
+-  [x] Bushes
 -  [ ] Stone path
 	-  [ ] pavers
 	-  [ ] brick
