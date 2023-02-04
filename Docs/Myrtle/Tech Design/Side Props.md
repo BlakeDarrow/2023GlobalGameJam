@@ -2,7 +2,7 @@
 -  [ ] Sidewalk
 -  [ ] Trees
 -  [ ] Root kit
--  [ ] Mushrooms
+-  [x] Mushrooms
 -  [x] Haybales
 -  [x] Box Planters
 -  [ ] Vines
