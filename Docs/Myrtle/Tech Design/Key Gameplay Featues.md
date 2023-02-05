@@ -1,0 +1,89 @@
+- [ ] Random/Proc gen map
+	- 9 chunk variations 
+		- 4 with POI
+		- 5 with no POI 
+			- [ ] placeholder
+			- [ ] placeholder
+			- [ ] placeholder
+			- [ ] placeholder
+			- [ ] placeholder
+- [ ] Movement
+	- [ ] Camera angle
+	- [ ] 
+- [ ] AI Hordes
+	- [ ] Optimized
+- [ ] Weapons
+	- [ ] Randomly dropped
+		- [ ] replace item in your kit
+			- 2weapon slots
+-  [ ] POI's
+	- 4 Unique POI's
+	- [ ] Item pickups 
+	- [ ] objective pickups
+		- Water vegetation ?
+- [ ] Teleport between worlds 
+	-  [ ] Level loading
+-  [ ] Persistent game data
+	-  [ ] Weapons
+	-  [ ] Player level
+
+## MVP
+- [ ] 1 chunk with POI
+	- [ ] textured, props
+	- [ ] buildings
+	- [ ] random spawned AI and collectables
+- [ ] 1 chunk with no POI
+	- [ ] textured, props
+- [x] Proc gen map
+	- [x] 9 chunks
+- [ ] 1 enemy
+	- [ ] modeled
+	- [ ] rigged
+	- [ ] animated
+	- [ ] textured
+- [ ] 4 finished weapons
+	- [ ] modeled
+	- [ ] animated
+	- [ ] textured
+	- [ ] vfx
+- [ ] gameplay loop
+	- [x] start menu
+	- [ ] end screen
+	- [ ] teleport to next level
+
+Marker distance
+Weapon functionality for 2 and 3
+End
+	water - objective
+
+- [x] health
+	- [ ] fall damage
+	- [x] can die
+	- [x] death screen
+
+- [ ] Health bar
+- [ ] weapon cooldown
+
+pickups
+	health or coins?'
+		vegetables?
+			goldin carrots
+	
+- [x] AI spawning
+AI spawning on poi
+	locked to axis
+	
+reduce intial screen loading
+marker distance
+
+
+
+
+health bar
+fall
+weapon cools
+
+
+
+- [ ] Finish 
+- [ ] Start

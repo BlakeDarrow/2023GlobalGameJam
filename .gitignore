@@ -69,6 +69,79 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Myrlte/Intermediate/*
+
+*.log
 
 # Cache files for the editor to use
-DerivedDataCache/*
+Myrlte/DerivedDataCache/*
+Docs/Myrtle/.obsidian/*
+Docs/Myrtle/.obsidian/workspace.json
+Myrtle/Saved/AutoScreenshot.png
+Myrtle/Saved/AutoScreenshot.png
+Myrtle\Saved\Logs\*.log
+*.log
+Myrtle/Saved/Config/CrashReportClient/UECC-Windows-992857EA47AE8C7F4D4FDA8D0EB367A7/CrashReportClient.ini
+# OS/platform generated files.
+
+# Windows
+ehthumbs.db
+Thumbs.db
+
+# Mac OS X
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Visual Studio
+.vs
+
+*/Intermediate/CachedAssetRegistry.bin
+*/Intermediate/**/*
+*/DerivedDataCache/**/*
+*/Saved/**/*
+
+Engine/Binaries/
+Engine/DerivedDataCache/
+Engine/Intermediate/
+Engine/Plugins/*/*/Binaries/
+Engine/Plugins/*/*/Intermediate/
+Engine/Programs/UnrealHeaderTool/
+Engine/Programs/UnrealPak/
+Engine/Saved/
+Engine/Shaders/Binaries/
+Engine/Source/*/*/*/obj/
+Engine/Source/*/*/obj/
+Engine/Source/*/obj/
+
+UE4.opensdf
+UE4.sdf
+UE4.sln
+UE4.suo
+UE4.*.suo
+
+Myrtle/Binaries/
+Myrtle/DerivedDataCache/
+Myrtle/Intermediate/
+Myrtle/Saved/
+*.log
+Myrtle/Saved/AutoScreenshot.png
+Myrtle/Saved/Logs/Myrtle.log
+*.log
+Myrtle/Intermediate/CachedAssetRegistry.bin
+Myrtle/Saved/Logs/Myrtle.log
+Myrtle/Intermediate/CachedAssetRegistry.bin
+Myrtle/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
