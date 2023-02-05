@@ -85,13 +85,13 @@ fall
 - [ ] 3 Weapon types: **Silas** 2hr
 	- [ ] Close range
 	- [ ] AOE
-		- [ ] Rain / Whip
+		- [x] Rain / Whip
 	- [ ] Dash
-		- [ ] Movement locational damage
+		- [x] Movement locational damage
 - [ ] Tiles finished and combat fun: **Blake / Zoe** 2hr
 	- [ ] Set dressing within all tiles - Zoe
-	- [ ] Structures and combat - Blake
-	- [ ] random spawners in every tile
+	- [x] Structures and combat - Blake
+	- [x] random spawners in every tile
 - [ ] Enemy: **Silas / Eden** 2hr
 	- [x] no double hit
 - [ ] VFX for weapons: **Blake** 1hr
@@ -101,8 +101,8 @@ fall
 - [ ] Pickups: **Silas** 1hr
 	- [ ] gameplay effects
 - [ ] Post P: **Blake / Zoe** 2hr
-	- [ ] Color, lighting- Zoe
-	- [ ] Fog, tech - Blake
+	- [x] Color, lighting- Zoe
+	- [x] Fog, tech - Blake
 - [ ] Building Roots / Tree: **Zoey/Eden** 1hr
 	- [ ] Tree model - Zoe
 	- [ ] Hanging roots - Eden
@@ -117,3 +117,7 @@ Blake - 6hr
 Zoe - 7hr
 Eden - 3hr
 Chase - 5hr
+
+
+in character - for loop based 
+	cull out a few
