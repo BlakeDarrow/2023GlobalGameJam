@@ -61,7 +61,6 @@ End
 	- [x] can die
 	- [x] death screen
 
-
 - [ ] Health bar
 - [ ] weapon cooldown
 
@@ -78,3 +77,13 @@ reduce intial screen loading
 marker distance
 
 
+
+
+health bar
+fall
+weapon cools
+
+
+
+- [ ] Finish 
+- [ ] Start
