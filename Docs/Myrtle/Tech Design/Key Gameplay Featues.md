@@ -61,8 +61,9 @@ End
 	- [x] can die
 	- [x] death screen
 
-sprint bar?
-	stamina bar?
+
+- [ ] Health bar
+- [ ] weapon cooldown
 
 pickups
 	health or coins?'
