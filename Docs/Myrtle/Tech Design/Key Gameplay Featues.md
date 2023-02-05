@@ -91,8 +91,9 @@ fall
 - [ ] Tiles finished and combat fun: **Blake / Zoe** 2hr
 	- [ ] Set dressing within all tiles - Zoe
 	- [ ] Structures and combat - Blake
+	- [ ] random spawners in every tile
 - [ ] Enemy: **Silas / Eden** 2hr
-	- [ ] no double hit
+	- [x] no double hit
 - [ ] VFX for weapons: **Blake** 1hr
 	- [ ] If failure add 1hr. Default content
 - [ ] Audio: **Silas** / Chase1hr
