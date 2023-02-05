@@ -51,9 +51,29 @@
 	- [ ] end screen
 	- [ ] teleport to next level
 
-
-
 Marker distance
 Weapon functionality for 2 and 3
 End
 	water - objective
+
+- [x] health
+	- [ ] fall damage
+	- [x] can die
+	- [x] death screen
+
+sprint bar?
+	stamina bar?
+
+pickups
+	health or coins?'
+		vegetables?
+			goldin carrots
+	
+- [x] AI spawning
+AI spawning on poi
+	locked to axis
+	
+reduce intial screen loading
+marker distance
+
+
