@@ -109,9 +109,7 @@ fall
 - [ ] Bugs: **Chase** 4 hr
 - [ ] Deploying: **Blake** 1hr 
 
-
 Shader
-
 
 ### Breakdown
 Silas - 6hr
