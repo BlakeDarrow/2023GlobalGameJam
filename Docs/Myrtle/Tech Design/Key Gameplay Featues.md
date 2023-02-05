@@ -78,7 +78,7 @@ marker distance
 - [x] health bar
 fall
 
-- [ ] Finish 
+- [x] Finish 
 - [ ] Start
 
 ## Sunday:
@@ -92,6 +92,7 @@ fall
 	- [ ] Set dressing within all tiles - Zoe
 	- [ ] Structures and combat - Blake
 - [ ] Enemy: **Silas / Eden** 2hr
+	- [ ] no double hit
 - [ ] VFX for weapons: **Blake** 1hr
 	- [ ] If failure add 1hr. Default content
 - [ ] Audio: **Silas** / Chase1hr
@@ -106,6 +107,10 @@ fall
 	- [ ] Hanging roots - Eden
 - [ ] Bugs: **Chase** 4 hr
 - [ ] Deploying: **Blake** 1hr 
+
+
+Shader
+
 
 ### Breakdown
 Silas - 6hr
