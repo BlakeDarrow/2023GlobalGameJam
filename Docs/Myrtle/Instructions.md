@@ -1,0 +1,2 @@
+The mother tree is dying!  Find water buckets to bring back to the tree to save her.  Once you've collected three buckets, use the arrow in the upper right hand corner to navigate to the tree.  Watch out for ants!  
+Use WASD or the arrow keys to navigate, Shift to run, RMB to defend yourself.  

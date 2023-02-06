@@ -1,4 +1,4 @@
-- [ ] Random/Proc gen map
+- [x] Random/Proc gen map
 	- 9 chunk variations 
 		- 4 with POI
 		- 5 with no POI 
@@ -7,10 +7,10 @@
 			- [ ] placeholder
 			- [ ] placeholder
 			- [ ] placeholder
-- [ ] Movement
-	- [ ] Camera angle
+- [x] Movement
+	- [x] Camera angle
 	- [ ] 
-- [ ] AI Hordes
+- [x] AI Hordes
 	- [ ] Optimized
 - [ ] Weapons
 	- [ ] Randomly dropped
@@ -18,8 +18,8 @@
 			- 2weapon slots
 -  [ ] POI's
 	- 4 Unique POI's
-	- [ ] Item pickups 
-	- [ ] objective pickups
+	- [x] Item pickups 
+	- [x] objective pickups
 		- Water vegetation ?
 - [ ] Teleport between worlds 
 	-  [ ] Level loading
@@ -28,10 +28,10 @@
 	-  [ ] Player level
 
 ## MVP
-- [ ] 1 chunk with POI
-	- [ ] textured, props
-	- [ ] buildings
-	- [ ] random spawned AI and collectables
+- [x] 1 chunk with POI
+	- [x] textured, props
+	- [x] buildings
+	- [x] random spawned AI and collectables
 - [ ] 1 chunk with no POI
 	- [ ] textured, props
 - [x] Proc gen map
@@ -48,8 +48,7 @@
 	- [ ] vfx
 - [ ] gameplay loop
 	- [x] start menu
-	- [ ] end screen
-	- [ ] teleport to next level
+	- [x] end screen
 
 Marker distance
 Weapon functionality for 2 and 3
@@ -61,10 +60,10 @@ End
 	- [x] can die
 	- [x] death screen
 
-- [ ] Health bar
-- [ ] weapon cooldown
+- [x] Health bar
+- [x] weapon cooldown
 
-pickups
+- [ ] pickups
 	health or coins?'
 		vegetables?
 			goldin carrots
@@ -76,14 +75,49 @@ AI spawning on poi
 reduce intial screen loading
 marker distance
 
-
-
-
-health bar
+- [x] health bar
 fall
-weapon cools
 
-
-
-- [ ] Finish 
+- [x] Finish 
 - [ ] Start
+
+## Sunday:
+- [ ] 3 Weapon types: **Silas** 2hr
+	- [ ] Close range
+	- [ ] AOE
+		- [x] Rain / Whip
+	- [ ] Dash
+		- [x] Movement locational damage
+- [ ] Tiles finished and combat fun: **Blake / Zoe** 2hr
+	- [ ] Set dressing within all tiles - Zoe
+	- [x] Structures and combat - Blake
+	- [x] random spawners in every tile
+- [ ] Enemy: **Silas / Eden** 2hr
+	- [x] no double hit
+- [ ] VFX for weapons: **Blake** 1hr
+	- [ ] If failure add 1hr. Default content
+- [ ] Audio: **Silas** / Chase1hr
+- [ ] UI: **Zoe**  2hr
+- [ ] Pickups: **Silas** 1hr
+	- [ ] gameplay effects
+- [ ] Post P: **Blake / Zoe** 2hr
+	- [x] Color, lighting- Zoe
+	- [x] Fog, tech - Blake
+- [ ] Building Roots / Tree: **Zoey/Eden** 1hr
+	- [ ] Tree model - Zoe
+	- [ ] Hanging roots - Eden
+- [ ] Bugs: **Chase** 4 hr
+- [ ] Deploying: **Blake** 1hr 
+
+Shader
+
+### Breakdown
+Silas - 6hr
+Blake - 6hr
+Zoe - 7hr
+Eden - 3hr
+Chase - 5hr
+
+
+in character - for loop based 
+	cull out a few
